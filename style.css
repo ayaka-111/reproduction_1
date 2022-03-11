@@ -61,6 +61,7 @@ h2, h3, h4 {
     font-size: 18px;
     line-height: 22px;
     color: #000000;
+    white-space: nowrap;
 }
 .logo:hover {
     opacity: 0.7;
