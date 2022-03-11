@@ -271,6 +271,7 @@ small {
     }
     #home {
         height: 50vh;
+        width: 100%;
     }
     .page-title {
         font-size: 24px;
@@ -332,7 +333,7 @@ small {
     .footer-nav ul {
         flex-direction: column;
         align-items: center;
-        margin-right: 0;
+        /*margin-right: 0;*/
         width: 100%;
     }
     .footer-nav ul li {
