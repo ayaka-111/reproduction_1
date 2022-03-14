@@ -217,6 +217,7 @@ footer {
 .page-footer {
     display: flex;
     justify-content: space-between;
+    width: 100%;
 }
 .footer-logo {
     width: 95px;
