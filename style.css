@@ -317,11 +317,11 @@ small {
         align-items: center;
     }
     #info a{
-        width: 390px;
+        width: 100%;
         height: 390px;
     }
     .info-img {
-        width: 390px;
+        width: 100%;
         height: 390px;
     }
     .page-footer {
