@@ -163,13 +163,8 @@ span {
     padding-top: 5%;
     width: calc(100%3);
 }
-#info a {
-    width: 475px;
-    height: 475px;
-}
 .info-img {
-    width: 475px;
-    height: 475px;
+    width: 100%;
 }
 .info-img:hover {
     opacity: 0.7;
