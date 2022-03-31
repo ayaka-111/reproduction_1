@@ -184,7 +184,7 @@ footer {
     justify-content: space-between;
     width: 100%;
 }
-.footer-logo {
+h4 img {
     width: 95px;
     height: 40px;
     margin-top: 30px;
@@ -211,7 +211,7 @@ small {
     color: white;
     padding-top: 50px;
 }
-.footer-logo:hover {
+h4 img:hover {
     opacity: 0.7;
 }
 .footer-nav ul li:hover {
@@ -292,7 +292,7 @@ small {
         padding-top: 10px;
         margin-bottom: 10px;
     }
-    .footer-logo {
+    h4 img {
         height: 40px;
         margin-left: 0;
     }
