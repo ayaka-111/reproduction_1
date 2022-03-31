@@ -9,6 +9,8 @@ body{
     font-family: "ヒラギノ明朝 ProN", "Hiragino Mincho ProN", "Yu Mincho Light", YuMincho, "Yu Mincho", 游明朝体, sans-serif;
     line-height: 1.2;
     max-width: 1600px;
+    margin: 0;
+    padding: 0;
 }
 a {
     text-decoration: none;
@@ -65,7 +67,6 @@ h1 img:hover {
     width: 100%;
     background-image: url(images/IMAGE.png);
     position: relative;/*page-title親*/
-    font-size: 0;
 }
 .page-title {
     position: absolute;/*中央に配置*/
