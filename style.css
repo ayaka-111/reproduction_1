@@ -161,10 +161,9 @@ span {
 #info {
     display: flex;
     padding-top: 5%;
-    width: calc(100%3);
 }
 .info-img {
-    width: 100%;
+    width: calc(100%3);
 }
 .info-img:hover {
     opacity: 0.7;
