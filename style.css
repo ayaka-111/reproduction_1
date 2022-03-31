@@ -163,8 +163,11 @@ span {
     padding-top: 5%;
     width: 100%;
 }
-.info-img {
+#info a {
     width: calc(100%3);
+}
+.info-img {
+    width: 100%;
     vertical-align: bottom;
 }
 .info-img:hover {
