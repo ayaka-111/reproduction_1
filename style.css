@@ -165,6 +165,7 @@ span {
 }
 .info-img {
     width: calc(100%3);
+    vertical-align: bottom;
 }
 .info-img:hover {
     opacity: 0.7;
