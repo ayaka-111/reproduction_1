@@ -161,7 +161,6 @@ span {
 #info {
     display: flex;
     padding-top: 5%;
-    width: 100%;
 }
 #info a {
     width: calc(100%3);
