@@ -163,7 +163,7 @@ span {
     padding-top: 5%;
 }
 #info a {
-    width: calc(100%3);
+    width: calc(100%/3);
 }
 .info-img {
     width: 100%;
