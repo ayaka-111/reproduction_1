@@ -4,12 +4,12 @@ html {
     font-size: 100%;
     width: 100%;
     height: 100%;
+    font-size: 0;
 }
 body{
     font-family: "ヒラギノ明朝 ProN", "Hiragino Mincho ProN", "Yu Mincho Light", YuMincho, "Yu Mincho", 游明朝体, sans-serif;
     line-height: 1.2;
     max-width: 1600px;
-    font-size: 0;
 }
 a {
     text-decoration: none;
